@@ -1,0 +1,23 @@
+﻿# Virtual environment
+venv/
+venv311/
+__pycache__/
+*.pyc
+
+# Dataset (do NOT upload)
+dataset/
+FMD_DATASET/
+*.zip
+
+# Logs and evidence (will be recreated locally)
+logs/
+*.log
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Note: Trained model files (.keras, .tflite) and face detector files
+# are NOT ignored – they are needed for offline deployment.

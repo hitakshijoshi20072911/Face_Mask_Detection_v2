@@ -1,0 +1,7 @@
+tensorflow>=2.12
+opencv-python
+numpy
+scikit-learn
+matplotlib
+pandas
+tensorflow-model-optimization
