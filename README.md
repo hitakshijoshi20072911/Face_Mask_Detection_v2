@@ -18,6 +18,9 @@ Designed for air‑gapped environments, this system runs **without any internet*
 
 ---
 
+<img width="744" height="503" alt="Screenshot 2026-06-08 190006" src="https://github.com/user-attachments/assets/bfc88427-349d-495a-ad83-dd4617619e88" />
+<img width="1006" height="800" alt="Screenshot 2026-06-08 172730" src="https://github.com/user-attachments/assets/e2300173-842e-4447-9640-e20f53e5cd10" />
+
 ##  Table of Contents
 
 1. [Objective](#-objective)
