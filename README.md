@@ -5,7 +5,9 @@ A fully offline, deployable computer vision module that detects faces and classi
 **Improper Mask** · 
 **No Mask**
 
+
 Designed for air‑gapped environments, this system runs **without any internet** after initial setup, making it ideal for controlled facilities (offices, labs, etc.).
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white" alt="Python 3.11">
@@ -49,6 +51,7 @@ Build a deployable module (not just a model) that automatically monitors mask co
 - Provide a robust **alert system** with logs, screenshots, and a live violation window
 
 ---
+
 
 ##  System Architecture
 
